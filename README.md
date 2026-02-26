@@ -21,3 +21,8 @@ TaskManager is a modern task management application built with React and .NET Co
 
 1.  The application is pre-configured to run in this environment.
 2.  Interact with the UI to manage your tasks.
+
+## Screenshots
+<img width="1920" height="814" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/967e07ba-294b-4f09-806f-5fc8e1a60019" />
+<img width="1920" height="817" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/9c9d2dfd-e8cf-41fd-8ffa-813a0621408c" />
+
