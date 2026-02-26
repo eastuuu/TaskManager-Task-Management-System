@@ -1,0 +1,5 @@
+{
+  "name": "TaskManager",
+  "description": "TaskManager is a modern task management application built with React and .NET Core for efficient task tracking and productivity.",
+  "requestFramePermissions": []
+}
